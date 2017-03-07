@@ -7,8 +7,9 @@ var Main = require('../components/Main');
 
 var routes = (
 	<Router>
-		<IndexRoute component={Main}>
-		<Route path='/ScanResults' component={ScanResults}>
+		<IndexRoute component={Main} >
+			<Route path='/ScanResults' component={ScanResults} />
+		</IndexRoute>
 	</Router>
 );
 
