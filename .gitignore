@@ -1,5 +1,6 @@
 .*.swp
 node_modules/*
 
+npm-debug.log
 dist/index.html
 dist/index_bundle.js
