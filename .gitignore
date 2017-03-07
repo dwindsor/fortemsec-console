@@ -3,3 +3,4 @@ node_modules/*
 
 dist/index.html
 dist/index_bundle.js
+npm-debug.log
